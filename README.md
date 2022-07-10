@@ -1,16 +1,24 @@
-# todo
+# To do List with Provider
 
-A new Flutter project.
+⚠️ There is a app preview, please wait for loading ⚠
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![todo](https://user-images.githubusercontent.com/105821762/178163284-4efa0aef-db10-4b99-a08a-9b9502d08f9d.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## <p>Features</p>
+<ul>
+<li>Managing app state with Provider</li>
+<li>Prop Drilling</li>
+<li>List Builder</li>
+<li>Lift state to be able to access it from children widgets</li>
+<li>List Builder</li>
+
+</u>
+
+
+
+
+
