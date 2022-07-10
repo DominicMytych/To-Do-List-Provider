@@ -14,7 +14,6 @@
 <li>Prop Drilling</li>
 <li>List Builder</li>
 <li>Lift state to be able to access it from children widgets</li>
-<li>List Builder</li>
 
 </u>
 
